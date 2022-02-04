@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-### MBTI
+### Introduce
 
 ```
-class MBTI {
-  int p;
+class Allen {
+  val entp: MBTI;
 }
 ```
 <!--
